@@ -86,29 +86,6 @@ The graph helped identify the most suitable K value for the classification task.
 
 ---
 
-## 📸 Output Screenshots
-
-### Dataset Preview
-
-![Dataset Preview](screenshots/dataset_preview.png)
-
-### Accuracy Output
-
-![Accuracy](screenshots/accuracy.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](screenshots/confusion_matrix.png)
-
-### K Values Accuracy
-
-![K Values Accuracy](screenshots/k_values_accuracy.png)
-
-### K vs Accuracy Graph
-
-![K vs Accuracy Graph](screenshots/k_vs_accuracy_graph.png)
-
----
 
 ## 🎯 Key Learnings
 
